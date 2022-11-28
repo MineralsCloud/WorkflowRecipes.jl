@@ -1,0 +1,3 @@
+[deps]
+JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
+WorkflowRecipes = "b37806eb-9d63-46cf-bac1-9ac067ff9961"
